@@ -23,7 +23,8 @@ function iLoveTheBeatles(number)  {
   
   do  {
     emptyArray.unshift("I love the Beatles!");
-  
+    number++;
   }
-  while
+  while (number < 15)
+  return emptyArray;
 }
