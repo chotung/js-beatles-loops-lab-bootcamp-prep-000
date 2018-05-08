@@ -17,7 +17,7 @@ function johnLennonFacts(arrayFacts){
   p
   var i = 0;
   arrayFacts
-  while(arrayFacts.length){
+  while(){
     
   }
 
