@@ -14,11 +14,11 @@ function johnLennonFacts(arrayFacts){
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-  p
+  
   var i = 0;
-  arrayFacts
-  while(){
-    
+  arrayFacts = [];
+  while(i < arrayFacts.length)  {
+    arrayFacts.push("!!!");
   }
 
 }
