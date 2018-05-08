@@ -12,7 +12,7 @@ function johnLennonFacts(arrayFacts){
   
   while(i < arrayFacts.length)  {
     arrayFacts[i] += "!!!";
-    console.log(i)
+    console.log(i);
     i++;
     return arrayFacts;
   }
