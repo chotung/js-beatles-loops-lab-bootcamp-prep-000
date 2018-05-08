@@ -18,10 +18,10 @@ function johnLennonFacts(arrayFacts){
   var i = 0;
   arrayFacts = facts;
   while(i < arrayFacts.length)  {
-    var temp = console.log(arrayFacts[i] + "!!!");
+    arrayFacts[i];
     
     i++;
-    return temp;
+    return arrayFacts;
   }
 
 }
